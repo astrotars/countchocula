@@ -1,4 +1,4 @@
-# Countcocula
+# Countchocula
 
 Countchocula provides easy access to npm stats for a given repo on a daily basis between two periods of time. You simply pass the package name, start date, and end date. The returned result will be an array of data points that can easily be plotted on a graph such as a bar chart.
 
